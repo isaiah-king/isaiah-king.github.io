@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Isaiah King / Manifest Life Inc."
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Isaiah King"
+description              : &description "Manifest Life is a nonprofit lifestyle brand helping Millennials self-identify as creatives, providing financial and technical insight. Manifest Life Inc believes in fostering an ecosystem that is built upon design-thinking and solution-based - open collaboration."
+url                      : "https://isaiah-king.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "isaiah-king/isaiah-king.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &manifestlifeinc
 facebook:
   username               :
   app_id                 :
@@ -79,12 +79,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Isaiah King"
+  avatar           : "profile.jpg"
+  bio              : "Isaiah King is a creative technologist who holds a B.Sc in Entrepreneurship. His origins are located in Boston Massachusetts however he currently resides in Atlanta, Georgia. Isaiah King founded Manifest Life Inc in 2015 as a college student."
+  location         : "Atlanta GA"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=ElR_OpwAAAAJ"
   email            :
   uri              :
   bitbucket        :
@@ -93,19 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "manifestlifeinc"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "manifestlife"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "manifestlifeinc"
   vine             :
   weibo            :
   xing             :
