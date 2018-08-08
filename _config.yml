@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Isaiah King"
-  avatar           : "profile.jpg"
+  avatar           : "/Users/izzy/git/isaiah-king/isaiah-king.github.io/images/profile.jpg"
   bio              : "Isaiah King is a creative technologist who holds a B.Sc in Entrepreneurship. His origins are located in Boston Massachusetts however he currently resides in Atlanta, Georgia. Isaiah King founded Manifest Life Inc in 2015 as a college student."
   location         : "Atlanta GA"
   employer         :
